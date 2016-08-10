@@ -1,0 +1,27 @@
+{"womenssoccerteam":[
+	{
+		"name":"Morgan Brian",
+		"position":"Midfielder",
+		"bio":"In spite of the soccer culture, the tiny island population meant there just weren’t enough players, so Morgan played up four or five years. “I was nine; we were playing with kids that were 14. I hadn’t grown yet.” Her tiny size earned her the nickname ‘Plankton;’ the character from her then favorite show, SpongeBob SquarePants."
+	},
+	{
+		"name":"Crystal Dunn",
+		"position":"Forward",
+		"bio":"Started her WNT career as defender and reached the full international level after featuring prominently for the WNT programs at the U-17 and U-20 levels, but since returning to the squad at the end of 2015 after a stellar NWSL season, she has been a winger/outside midfielder."
+	},
+	{
+		"name":"Christen Press",
+		"position":"Forward",
+		"bio":"Christen Press had a lot of early success. In club soccer, her teams won national championships, and in college, she became Stanford’s all time leading scorer (71 goals) and the recipient of the 2010 Herman Trophy Award, college soccer’s top prize. But Press was more focused on what she hadn’t accomplished. In high school, she’d never been selected for Youth National Teams; and in spite of her individual success in college, Press lost in the NCAA College Cup championship two years in a row."
+	},
+	{
+		"name":"Whitney Engen",
+		"position":"Defender",
+		"bio":"She loved driving to games in her father’s old diesel Mercedes, the whole car shaking, her dad blaring opera music as they wound up the hill toward her game. But on the field, things weren’t going much better than gymnastics, “I rode the bench; rode it hard. I only went in if we were winning by so many goals that there was no way I could screw it up."
+	},
+	{
+		"name":"Hope Solo",
+		"position":"Goalkeeper",
+		"bio":"Hope Solo was a forward who loved to score goals. But when she was fifteen, her team’s goalkeeper got hurt, and her coach, Carl Wheeler, stuck Solo in goal. She did well; so well that she was eventually asked to play ‘keeper for the state ODP team of the next age group above her. “I was this tiny, skinny beanpole, a dorky kid with braces back there in goal. But my team took me under its wing.” Solo continued to play ‘keeper for the ODP team but for every other team, she was still very much a forward."
+	}
+]}
